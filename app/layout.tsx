@@ -27,11 +27,7 @@ export const metadata: Metadata = {
     'Curriculum Vitae of Yasmine Kaddour. Luxury real estate professional seeking an apprenticeship in wealth management on the French Riviera.',
   generator: 'v0.app',
   icons: {
-    icon: [
-      { url: '/icon-light-32x32.png', media: '(prefers-color-scheme: light)' },
-      { url: '/icon-dark-32x32.png', media: '(prefers-color-scheme: dark)' },
-      { url: '/icon.svg', type: 'image/svg+xml' },
-    ],
+    icon: [{ url: '/icon.svg', type: 'image/svg+xml' }],
     apple: '/apple-icon.png',
   },
 }
@@ -39,8 +35,8 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   colorScheme: 'light dark',
   themeColor: [
-    { media: '(prefers-color-scheme: light)', color: '#f7f4ee' },
-    { media: '(prefers-color-scheme: dark)', color: '#13192a' },
+    { media: '(prefers-color-scheme: light)', color: 'bg-background' },
+    { media: '(prefers-color-scheme: dark)', color: 'bg-background' },
   ],
 }
 
@@ -52,7 +48,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${cormorant.variable} ${jost.variable} ${geistMono.variable} bg-background`}
+      className={`dark ${cormorant.variable} ${jost.variable} ${geistMono.variable} `}
       suppressHydrationWarning
     >
       <body className="font-sans antialiased">

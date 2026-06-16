@@ -13,7 +13,7 @@ import { Contact } from './contact'
 export function CvSite() {
   return (
     <CvProvider>
-      <div className="min-h-dvh bg-background">
+      <div className="min-h-dvh">
         <ScrollProgress />
         <TopBar />
         <main>

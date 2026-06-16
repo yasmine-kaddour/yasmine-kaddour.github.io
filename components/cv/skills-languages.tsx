@@ -13,15 +13,15 @@ export function SkillsLanguages() {
           <SectionHeading id="skills" index="04" title={data.ui.skills_label} />
         </Reveal>
 
-        <ul className="grid gap-x-12 gap-y-3 lg:grid-cols-2">
+        <ul className="grid gap-x-12 gap-y-3.5 lg:grid-cols-2">
           {data.skills.map((s, i) => (
             <Reveal
               as="li"
               key={i}
               delay={(i % 2) * 70}
-              className="flex items-start gap-3 border-b border-border/60 pb-3 font-sans text-sm leading-relaxed text-foreground"
+              className="flex items-start gap-3 border-b border-border/60 pb-3.5 font-sans text-[1.0625rem] leading-relaxed text-foreground"
             >
-              <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rotate-45 bg-gold" />
+              <span className="mt-2 h-1.5 w-1.5 shrink-0 rotate-45 bg-gold" />
               {s}
             </Reveal>
           ))}

@@ -11,9 +11,9 @@ export function Hero() {
   return (
     <section
       id="top"
-      className="relative mx-auto max-w-6xl px-5 pt-28 pb-16 md:px-8 md:pt-36 md:pb-24"
+      className="relative mx-auto flex max-w-6xl px-5 pt-28 pb-16 md:px-8 md:pt-36 md:pb-24 lg:min-h-dvh lg:items-center lg:pt-20 lg:pb-16"
     >
-      <div className="grid items-center gap-12 lg:grid-cols-[1.1fr_0.9fr] lg:gap-16">
+      <div className="grid w-full items-center gap-12 lg:grid-cols-[1.1fr_0.9fr] lg:gap-16">
         {/* Text */}
         <div className="animate-fade-up">
           <span className="inline-flex items-center gap-2 rounded-full border border-gold/40 bg-gold/5 px-4 py-1.5 font-sans text-[0.7rem] uppercase tracking-[0.2em] text-gold">

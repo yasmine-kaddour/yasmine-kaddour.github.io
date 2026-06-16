@@ -29,10 +29,10 @@ export function Education() {
             <h3 className="mt-3 font-heading text-xl font-semibold leading-snug text-foreground text-balance">
               {ed.degree}
             </h3>
-            <p className="mt-2 font-sans text-sm text-foreground/90">
+            <p className="mt-2 font-sans text-[0.95rem] text-foreground/90">
               {ed.institution}
             </p>
-            <p className="font-sans text-sm text-muted-foreground">
+            <p className="font-sans text-[0.95rem] text-muted-foreground">
               {ed.location}
             </p>
           </Reveal>

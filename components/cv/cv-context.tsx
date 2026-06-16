@@ -30,23 +30,25 @@ const dictionaries: Record<Lang, CvData> = {
   fr: cvFr as CvData,
 }
 
+const themeStorageKey = 'cv-theme-v2'
+
 export function CvProvider({ children }: { children: ReactNode }) {
   const [lang, setLangState] = useState<Lang>('en')
-  const [theme, setTheme] = useState<Theme>('light')
+  const [theme, setTheme] = useState<Theme>('dark')
 
-  // Restore preferences — light/white is the default
+  // Restore preferences; the deep blue theme is the default.
   useEffect(() => {
     const storedLang = localStorage.getItem('cv-lang') as Lang | null
-    const storedTheme = localStorage.getItem('cv-theme') as Theme | null
+    const storedTheme = localStorage.getItem(themeStorageKey) as Theme | null
     if (storedLang === 'en' || storedLang === 'fr') setLangState(storedLang)
-    setTheme(storedTheme === 'dark' ? 'dark' : 'light')
+    setTheme(storedTheme === 'light' ? 'light' : 'dark')
   }, [])
 
   // Apply theme + html lang
   useEffect(() => {
     const root = document.documentElement
     root.classList.toggle('dark', theme === 'dark')
-    localStorage.setItem('cv-theme', theme)
+    localStorage.setItem(themeStorageKey, theme)
   }, [theme])
 
   useEffect(() => {

@@ -19,7 +19,7 @@ export function Experience() {
         {data.professional_experience.map((job, i) => (
           <Reveal as="li" key={`${job.company}-${i}`} delay={i * 80} className="relative pb-12 last:pb-0">
             <span className="absolute -left-[2.15rem] top-1.5 flex h-3.5 w-3.5 items-center justify-center md:-left-[3.15rem]">
-              <span className="h-3.5 w-3.5 rounded-full border-2 border-gold bg-background" />
+              <span className="h-3.5 w-3.5 rounded-full border-2 border-gold" />
             </span>
 
             <div className="flex flex-col gap-1 md:flex-row md:items-baseline md:justify-between">
