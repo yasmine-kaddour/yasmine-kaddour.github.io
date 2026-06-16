@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "lang": "en",
+    "title_role": "Wealth Management · Apprenticeship",
+    "available_badge": "Available for apprenticeship — 2026"
+  },
+  "ui": {
+    "nav": {
+      "profile": "Profile",
+      "experience": "Experience",
+      "education": "Education",
+      "skills": "Skills",
+      "languages": "Languages",
+      "contact": "Contact"
+    },
+    "lang_toggle": "FR",
+    "theme_light": "Light",
+    "theme_dark": "Dark",
+    "objective_label": "Career Objective",
+    "profile_label": "Professional Profile",
+    "experience_label": "Professional Experience",
+    "education_label": "Education",
+    "skills_label": "Areas of Expertise",
+    "languages_label": "Languages",
+    "contact_label": "Get in Touch",
+    "contact_intro": "Available for an apprenticeship in wealth management. I would be delighted to discuss how my background can serve your clients.",
+    "present": "Present",
+    "phone_label": "Phone",
+    "email_label": "Email",
+    "address_label": "Address",
+    "download_cv": "Download CV",
+    "footer_note": "Curriculum Vitae"
+  },
+  "personal_information": {
+    "full_name": "Yasmine Kaddour",
+    "phone": "+33 7 49 00 44 65",
+    "email": "kaddouryassminefr@gmail.com",
+    "address": "17 rue Sergent Bobillot, 06400 Cannes, France"
+  },
+  "cv_objective": "Seeking an apprenticeship position in a wealth management firm, where I can develop my knowledge of financial advisory, asset management, client portfolio support, and patrimonial strategy while applying my strong background in real estate, client relations, and commercial advisory.",
+  "professional_profile": "Motivated and client-oriented, I have developed strong experience in real estate, banking, commercial advisory, and high-end client support. \nMy academic and professional background has given me a solid understanding of property markets, administrative procedures, client needs analysis, and relationship management. I am now looking to broaden my expertise through an apprenticeship in wealth management, with a particular interest in supporting clients in building, managing, and optimizing their financial and real estate assets.",
+  "professional_experience": [
+    {
+      "position": "Luxury Real Estate Agent Apprentice",
+      "company": "Century 21",
+      "location": "Juan-les-Pins, France",
+      "start_date": "September 2025",
+      "end_date": "Present",
+      "responsibilities": [
+        "Assisted with luxury real estate transactions and client advisory.",
+        "Supported property prospecting, client follow-up, and mandate preparation.",
+        "Participated in property visits for high-end clients.",
+        "Developed knowledge of the luxury real estate market and premium client expectations.",
+        "Assisted with property presentation, valuation support, and administrative file management.",
+        "Strengthened commercial, negotiation, and client relationship skills in a professional agency environment."
+      ]
+    },
+    {
+      "position": "Real Estate Agent",
+      "company": "Riva Immobilier",
+      "location": "Cannes, France",
+      "start_date": "October 2024",
+      "end_date": "August 2025",
+      "responsibilities": [
+        "Conducted commercial prospecting, including property searches, mandate acquisition, and client relationship management.",
+        "Prepared property valuations based on local market analysis in the Cannes area.",
+        "Organized property visits and supported real estate negotiations.",
+        "Advised clients using strong knowledge of real estate terminology and procedures.",
+        "Managed rental files, including drafting and signing leases, file follow-up, and client support.",
+        "Used professional real estate software and advertising platforms.",
+        "Applied knowledge of real estate law, regulations, and property diagnostics."
+      ]
+    },
+    {
+      "position": "Commercial Agent",
+      "company": "Caisse d’Epargne",
+      "location": "Paris, France",
+      "start_date": "July 2021",
+      "end_date": "September 2021",
+      "responsibilities": [
+        "Welcomed and advised clients in a professional banking environment.",
+        "Supported client projects and assisted with financial planning requests.",
+        "Prepared, analyzed, and presented financing proposals.",
+        "Managed client files, documents, and administrative procedures.",
+        "Used technical banking software and professional tools.",
+        "Applied commercial techniques to support client needs and business objectives.",
+        "Developed an understanding of banking services, financing solutions, and customer relationship management."
+      ]
+    },
+    {
+      "position": "Architecture and Construction Intern",
+      "company": "Architecture Studio",
+      "location": "Paris, France",
+      "start_date": "May 2020",
+      "end_date": "June 2020",
+      "responsibilities": [
+        "Developed proficiency in architectural and technical terminology.",
+        "Assisted with construction project management and coordination.",
+        "Used architectural software such as AutoCAD and SketchUp.",
+        "Gained knowledge of construction standards and urban planning regulations.",
+        "Supported project planning while respecting timelines and schedules."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BTS in Luxury Real Estate Professions",
+      "institution": "École Elysée Marbeuf",
+      "location": "Cannes, France",
+      "start_year": 2024,
+      "end_year": 2026,
+      "status": "In progress"
+    },
+    {
+      "degree": "Bachelor’s-level studies in Engineering",
+      "institution": "Université Côte d’Azur - Valrose",
+      "location": "Nice, France",
+      "start_year": 2022,
+      "end_year": 2024,
+      "status": "Not completed"
+    },
+    {
+      "degree": "Bachelor’s-level studies in Architecture",
+      "institution": "École Nationale Supérieure d’Architecture Paris-La Villette",
+      "location": "Paris, France",
+      "start_year": 2019,
+      "end_year": 2022,
+      "status": "Not completed"
+    }
+  ],
+  "skills": [
+    "Client advisory and relationship management.",
+    "Strong customer service and reception skills.",
+    "Commercial prospecting and negotiation.",
+    "Real estate market analysis and property valuation.",
+    "Understanding of real estate transactions, leases, and administrative procedures.",
+    "Knowledge of banking services and financing proposals.",
+    "Ability to analyze client needs and provide tailored support.",
+    "Strong interest in wealth management, patrimonial advisory, and asset optimization.",
+    "Professional communication with demanding and high-end clients.",
+    "File management, document preparation, and administrative follow-up.",
+    "Proficiency in architectural, real estate, and professional software tools."
+  ],
+  "languages": [
+    { "language": "French", "level": "Native" },
+    { "language": "Arabic", "level": "Native" },
+    { "language": "English", "level": "Fluent" },
+    { "language": "Italian", "level": "Intermediate" }
+  ]
+}

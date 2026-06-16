@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "lang": "fr",
+    "title_role": "Gestion de Patrimoine · Alternance",
+    "available_badge": "Disponible en alternance — 2026"
+  },
+  "ui": {
+    "nav": {
+      "profile": "Profil",
+      "experience": "Expérience",
+      "education": "Formation",
+      "skills": "Compétences",
+      "languages": "Langues",
+      "contact": "Contact"
+    },
+    "lang_toggle": "EN",
+    "theme_light": "Clair",
+    "theme_dark": "Sombre",
+    "objective_label": "Objectif Professionnel",
+    "profile_label": "Profil Professionnel",
+    "experience_label": "Expérience Professionnelle",
+    "education_label": "Formation",
+    "skills_label": "Domaines d’Expertise",
+    "languages_label": "Langues",
+    "contact_label": "Me Contacter",
+    "contact_intro": "Disponible pour une alternance en gestion de patrimoine. Je serais ravie d’échanger sur la manière dont mon parcours peut servir vos clients.",
+    "present": "Présent",
+    "phone_label": "Téléphone",
+    "email_label": "Email",
+    "address_label": "Adresse",
+    "download_cv": "Télécharger le CV",
+    "footer_note": "Curriculum Vitae"
+  },
+  "personal_information": {
+    "full_name": "Yasmine Kaddour",
+    "phone": "+33 7 49 00 44 65",
+    "email": "kaddouryassminefr@gmail.com",
+    "address": "17 rue Sergent Bobillot, 06400 Cannes, France"
+  },
+  "cv_objective": "Recherche d’un poste en alternance au sein d’un cabinet de gestion de patrimoine, afin de développer mes connaissances en conseil financier, gestion d’actifs, accompagnement de portefeuilles clients et stratégie patrimoniale, tout en mettant à profit mon expérience en immobilier, relation client et conseil commercial.",
+  "professional_profile": "Motivée et orientée client, j’ai développé une solide expérience dans l’immobilier, la banque, le conseil commercial et l’accompagnement d’une clientèle haut de gamme. Mon parcours académique et professionnel m’a permis d’acquérir une bonne compréhension des marchés immobiliers, des procédures administratives, de l’analyse des besoins clients et de la gestion de la relation client. Je souhaite désormais élargir mes compétences grâce à une alternance en gestion de patrimoine, avec un intérêt particulier pour l’accompagnement des clients dans la constitution, la gestion et l’optimisation de leurs actifs financiers et immobiliers.",
+  "professional_experience": [
+    {
+      "position": "Apprentie agente immobilière de luxe",
+      "company": "Century 21",
+      "location": "Juan-les-Pins, France",
+      "start_date": "Septembre 2025",
+      "end_date": "Présent",
+      "responsibilities": [
+        "Participation aux transactions immobilières de luxe et au conseil client.",
+        "Appui à la prospection immobilière, au suivi client et à la préparation des mandats.",
+        "Participation aux visites de biens destinés à une clientèle haut de gamme.",
+        "Développement des connaissances du marché immobilier de luxe et des attentes d’une clientèle premium.",
+        "Contribution à la présentation des biens, à l’appui des estimations et à la gestion administrative des dossiers.",
+        "Renforcement des compétences commerciales, de négociation et de relation client dans un environnement professionnel en agence."
+      ]
+    },
+    {
+      "position": "Agente immobilière",
+      "company": "Riva Immobilier",
+      "location": "Cannes, France",
+      "start_date": "Octobre 2024",
+      "end_date": "Août 2025",
+      "responsibilities": [
+        "Réalisation de la prospection commerciale, incluant la recherche de biens, l’acquisition de mandats et la gestion de la relation client.",
+        "Préparation d’estimations immobilières fondées sur l’analyse du marché local dans le secteur de Cannes.",
+        "Organisation des visites de biens et accompagnement lors des négociations immobilières.",
+        "Conseil aux clients grâce à une bonne maîtrise du vocabulaire et des procédures immobilières.",
+        "Gestion des dossiers locatifs, incluant la rédaction et la signature des baux, le suivi des dossiers et l’accompagnement client.",
+        "Utilisation de logiciels professionnels immobiliers et de plateformes publicitaires.",
+        "Application des connaissances en droit immobilier, réglementation et diagnostics immobiliers."
+      ]
+    },
+    {
+      "position": "Agente commerciale",
+      "company": "Caisse d’Epargne",
+      "location": "Paris, France",
+      "start_date": "Juillet 2021",
+      "end_date": "Septembre 2021",
+      "responsibilities": [
+        "Accueil et conseil des clients dans un environnement bancaire professionnel.",
+        "Accompagnement des projets clients et appui aux demandes de financement.",
+        "Préparation, analyse et présentation de propositions de financement.",
+        "Gestion des dossiers clients, des documents et des procédures administratives.",
+        "Utilisation de logiciels bancaires et d’outils professionnels.",
+        "Application de techniques commerciales afin de répondre aux besoins des clients et aux objectifs de l’agence.",
+        "Développement d’une compréhension des services bancaires, des solutions de financement et de la gestion de la relation client."
+      ]
+    },
+    {
+      "position": "Stagiaire en architecture et construction",
+      "company": "Cabinet d’architecture",
+      "location": "Paris, France",
+      "start_date": "Mai 2020",
+      "end_date": "Juin 2020",
+      "responsibilities": [
+        "Développement de la maîtrise du vocabulaire architectural et technique.",
+        "Appui à la gestion et à la coordination de projets de construction.",
+        "Utilisation de logiciels d’architecture tels qu’AutoCAD et SketchUp.",
+        "Acquisition de connaissances relatives aux normes de construction et aux réglementations d’urbanisme.",
+        "Soutien à la planification des projets dans le respect des délais et des calendriers établis."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BTS Professions Immobilières de Luxe",
+      "institution": "École Elysée Marbeuf",
+      "location": "Cannes, France",
+      "start_year": 2024,
+      "end_year": 2026,
+      "status": "En cours"
+    },
+    {
+      "degree": "Études de niveau licence en ingénierie",
+      "institution": "Université Côte d’Azur - Valrose",
+      "location": "Nice, France",
+      "start_year": 2022,
+      "end_year": 2024,
+      "status": "Diplôme non obtenu"
+    },
+    {
+      "degree": "Études de niveau licence en architecture",
+      "institution": "École Nationale Supérieure d’Architecture Paris-La Villette",
+      "location": "Paris, France",
+      "start_year": 2019,
+      "end_year": 2022,
+      "status": "Diplôme non obtenu"
+    }
+  ],
+  "skills": [
+    "Conseil client et gestion de la relation client.",
+    "Excellentes compétences en accueil et service client.",
+    "Prospection commerciale et négociation.",
+    "Analyse du marché immobilier et estimation de biens.",
+    "Compréhension des transactions immobilières, des baux et des procédures administratives.",
+    "Connaissance des services bancaires et des propositions de financement.",
+    "Capacité à analyser les besoins clients et à proposer un accompagnement adapté.",
+    "Fort intérêt pour la gestion de patrimoine, le conseil patrimonial et l’optimisation des actifs.",
+    "Communication professionnelle avec une clientèle exigeante et haut de gamme.",
+    "Gestion de dossiers, préparation de documents et suivi administratif.",
+    "Maîtrise d’outils professionnels dans les domaines de l’architecture, de l’immobilier et de la gestion administrative."
+  ],
+  "languages": [
+    { "language": "Français", "level": "Langue maternelle" },
+    { "language": "Arabe", "level": "Langue maternelle" },
+    { "language": "Anglais", "level": "Courant" },
+    { "language": "Italien", "level": "Intermédiaire" }
+  ]
+}
