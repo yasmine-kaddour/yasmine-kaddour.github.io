@@ -108,24 +108,21 @@
       "institution": "École Elysée Marbeuf",
       "location": "Cannes, France",
       "start_year": 2024,
-      "end_year": 2026,
-      "status": "En cours"
+      "end_year": 2026
     },
     {
       "degree": "Études de niveau licence en ingénierie",
       "institution": "Université Côte d’Azur - Valrose",
       "location": "Nice, France",
       "start_year": 2022,
-      "end_year": 2024,
-      "status": "Diplôme non obtenu"
+      "end_year": 2024
     },
     {
       "degree": "Études de niveau licence en architecture",
       "institution": "École Nationale Supérieure d’Architecture Paris-La Villette",
       "location": "Paris, France",
       "start_year": 2019,
-      "end_year": 2022,
-      "status": "Diplôme non obtenu"
+      "end_year": 2022
     }
   ],
   "skills": [

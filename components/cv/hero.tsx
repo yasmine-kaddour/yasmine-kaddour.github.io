@@ -1,11 +1,11 @@
 'use client'
 
 import Image from 'next/image'
-import { MapPin, Mail, Phone } from 'lucide-react'
+import { MapPin, Mail, Phone, Download } from 'lucide-react'
 import { useCv } from './cv-context'
 
 export function Hero() {
-  const { data } = useCv()
+  const { data, lang, theme } = useCv()
   const p = data.personal_information
 
   return (
@@ -53,6 +53,15 @@ export function Hero() {
               {p.address}
             </span>
           </div>
+
+          <a
+            href={`/cv-${lang}-${theme}.pdf`}
+            download={`Yasmine Kaddour - CV.pdf`}
+            className="group mt-8 inline-flex items-center gap-2.5 rounded-full bg-gold px-6 py-3 font-sans text-[0.7rem] font-medium uppercase tracking-[0.2em] text-gold-foreground shadow-[0_20px_40px_-20px_rgba(0,0,0,0.5)] transition-all hover:-translate-y-0.5 hover:shadow-[0_24px_50px_-20px_rgba(0,0,0,0.55)]"
+          >
+            <Download className="h-4 w-4 transition-transform group-hover:translate-y-0.5" />
+            {data.ui.download_cv}
+          </a>
         </div>
 
         {/* Photo */}
