@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "fr",
-    "title_role": "Gestion de Patrimoine · Alternance",
-    "available_badge": "Disponible en alternance — 2026"
+    "title_role": "Immobilier",
+    "available_badge": "Disponible — 2026"
   },
   "ui": {
     "nav": {
@@ -23,7 +23,7 @@
     "skills_label": "Domaines d’Expertise",
     "languages_label": "Langues",
     "contact_label": "Me Contacter",
-    "contact_intro": "Disponible pour une alternance en gestion de patrimoine. Je serais ravie d’échanger sur la manière dont mon parcours peut servir vos clients.",
+    "contact_intro": "Disponible pour un poste en alternance Immobilier. Je serais ravie d’échanger sur la manière dont mon parcours peut servir vos clients.",
     "present": "Présent",
     "phone_label": "Téléphone",
     "email_label": "Email",
@@ -37,7 +37,7 @@
     "email": "kaddouryassminefr@gmail.com",
     "address": "17 rue Sergent Bobillot, 06400 Cannes, France"
   },
-  "cv_objective": "Recherche d’un poste en alternance au sein d’un cabinet de gestion de patrimoine, afin de développer mes connaissances en conseil financier, gestion d’actifs, accompagnement de portefeuilles clients et stratégie patrimoniale, tout en mettant à profit mon expérience en immobilier, relation client et conseil commercial.",
+  "cv_objective": "À la recherche d’un poste dans le secteur immobilier. Je serais ravie d’échanger sur la manière dont mon expérience en transaction, conseil client et immobilier haut de gamme peut contribuer à votre agence ou à votre entreprise.",
   "professional_profile": "Motivée et orientée client, j’ai développé une solide expérience dans l’immobilier, la banque, le conseil commercial et l’accompagnement d’une clientèle haut de gamme. Mon parcours académique et professionnel m’a permis d’acquérir une bonne compréhension des marchés immobiliers, des procédures administratives, de l’analyse des besoins clients et de la gestion de la relation client. Je souhaite désormais élargir mes compétences grâce à une alternance en gestion de patrimoine, avec un intérêt particulier pour l’accompagnement des clients dans la constitution, la gestion et l’optimisation de leurs actifs financiers et immobiliers.",
   "professional_experience": [
     {
